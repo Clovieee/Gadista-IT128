@@ -1,1 +1,3 @@
-# Gadista-IT128
+Clovie Gadista
+ITS128-FOPI01
+BSIT
